@@ -2,7 +2,7 @@
 _Bitcoin Private Key Extractor_
 
 # changes
-- This is a modified version of [bc_key](https://github.com/halfinney/bc_key.git).
+- This is a modified version of [bc_key](https://github.com/halfinney/bc_key.git) for windows.
 
 # prerequisites:
 
