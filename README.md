@@ -24,9 +24,9 @@ bc_key EVERYTHING /path/to/wallet.dat
 
 # examples:
 ```
-bc_key 1qZGQG5Ls66oBbtLt3wPMa6zfq7CJ7f12 /home/dirtyfilthy/.bitcoin/wallet.dat
+bc_key 1qZGQG5Ls66oBbtLt3wPMa6zfq7CJ7f12 wallet.dat
 
-bc_key ALL /home/dirtyfilthy/.bitcoin/wallet.dat
+bc_key ALL wallet.dat
 
-bc_key EVERYTHING /home/dirtyfilthy/.bitcoin/wallet.dat
+bc_key EVERYTHING wallet.dat
 ```
