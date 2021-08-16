@@ -21,12 +21,3 @@ bc_key BITCOIN_ADDRESS /path/to/wallet.dat
 bc_key ALL /path/to/wallet.dat
 bc_key EVERYTHING /path/to/wallet.dat
 ```
-
-# examples:
-```
-bc_key 1qZGQG5Ls66oBbtLt3wPMa6zfq7CJ7f12 wallet.dat
-
-bc_key ALL wallet.dat
-
-bc_key EVERYTHING wallet.dat
-```
